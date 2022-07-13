@@ -22,6 +22,8 @@ int prio_score = 0;
 std::string trait_1 = " ";
 std::string trait_2 = " ";
 std::string trait_3 = " ";
+//role
+std::string role = " ";
 //input
 char yes_or_no = ' ';
 bool answer = true;
@@ -33,6 +35,11 @@ void set_values_with_input(){
     std::cin >> champ;
     std::transform(champ.begin(), champ.end(), champ.begin(), ::tolower);
     std::cout << "Champion name: " << champ << std::endl;
+
+    std::cout << "Enter the champion's role: " << std::endl;
+    std::cin >> role;
+    std::transform(role.begin(), role.end(), role.begin(), ::tolower);
+    std::cout << "The role given to the champ: " << role << std::endl;
 
     std::cout << "Enter champion priority score(PS) - numbers 1-5" << std::endl;
     std::cin >> prio_score;
@@ -160,7 +167,7 @@ int main(){
     << sub_item_2 << "\" , \"" << sub_item_3 << "\" , \"" << sub_item_4 
     << "\" , \"" << sub_item_5 <<"\" , \""<< sub_item_6 <<"\"], \n  \"prio_score\" : \"" 
     << prio_score << "\",\n  \"traits\" : [\""<< trait_1 <<"\" ,\""<< trait_2 
-    << "\" ,\"" << trait_3 << "\"]\n}\n}";
+    << "\" ,\"" << trait_3 << "\"],\n  \"role\" : \"" << role << "\"\n}\n}";
 
     champ_json.close();
 
