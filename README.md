@@ -7,7 +7,7 @@ generates:
 - priority score of champion (PS) through number 1-5  (1 == lowest 5 == highest)
 - items - three complete items that the champion is using
 - sub items - components of major items that the champion needs
-- traits - three traits that the champion has (if champion has two traits simply type "none" to the third)
+- traits - three traits that the champion has (if champion has two traits simply type "0" to the third)
 - Update:
 - role - assign a role which will be used to determine the position of the champion on the board
 - revamped to use numbers instead of text input to minimize human error while typing
