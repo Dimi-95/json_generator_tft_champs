@@ -1,0 +1,126 @@
+COMPLETE ITEMS
+--------------
+1 = dragonmancer
+2 = assassin
+3 = ragewing
+4 = guardian
+5 = cavalier
+6 = mage
+7 = mirage
+8 = shimmerscale
+9 = archangle
+10 = banshee
+11 = thirster
+12 = blue
+13 = bramble
+14 = chalice
+15 = deathblade
+16 = claw
+17 = edge
+18 = frozenheart
+19 = stoneplate
+20 = slayer
+21 = rageblade
+22 = hand
+23 = gunblade
+24 = infinity
+25 = spark
+26 = gauntlet
+27 = whisper
+28 = locket
+29 = morello
+30 = quicksilver
+31 = deathcap
+32 = rapid
+33 = redemption
+34 = hurricane
+35 = shroud
+36 = shojin
+37 = static
+38 = sunfire
+39 = tacticiancrown
+40 = glove
+41 = titan
+42 = warmogs
+43 = zekes
+44 = zephyr
+45 = void
+
+BASE ITEMS
+----------
+1 = sword
+2 = vest 
+3 = belt
+4 = rod
+5 = cloak
+6 = bow
+7 = crit
+8 = spat
+9 = tear
+
+CHAMPIONS
+---------
+1 = aatrox
+2 = anivia
+3 = aoshin
+4 = ashe
+5 = aurelion
+6 = bard
+7 = braum
+8 = corki
+9 = daeja
+10 = diana
+11 = elise
+12 = ezreal
+13 = gnar
+14 = hecarim
+15 = heimer
+16 = idas
+17 = illaoi
+18 = jinx
+19 = karma
+20 = kayne
+21 = lee
+22 = leona
+23 = lillia
+24 = lulu
+25 = nami
+26 = neeko
+27 = nidalee
+28 = nunu
+29 = olaf
+30 = ornn
+31 = pyke
+32 = qiyanna
+33 = ryze
+34 = sejuani
+35 = senna
+36 = sett
+37 = shen
+38 = shiohyu
+39 = shyvana
+40 = skarner
+41 = sona
+42 = soraka
+43 = swai n
+44 = syfen
+45 = sylas
+46 = tahm
+47 = talon
+48 = taric
+49 = thresh
+50 = tristana
+51 = twitch
+52 = varus
+53 = vladimir
+54 = volibear
+55 = xayah
+56 = yasuo
+57 = yone
+58 = zoe
+
+ROLES
+-----
+1 = bruiser
+2 = support
+3 = rangedcarry
