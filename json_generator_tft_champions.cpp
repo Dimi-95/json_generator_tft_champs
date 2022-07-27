@@ -91,7 +91,7 @@ void set_values_with_input(){
         {
             std::cin >> trait_num;
             std::cout << "Trait entered: " << champion_traits[trait_num] << std::endl;
-            champ_trait_3[trait_num];
+            champ_trait_3 = champion_traits[trait_num];
         }
     }
 
